@@ -16,11 +16,9 @@ AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
 
 ### 🛠️ Mentorship Command Center (Dashboard)
 A modern, dark-themed command center tracking analytical indexes (Certificates, Detected Skills, Saved Paths) featuring a dynamic threat detection component.
-<img src="https://id-preview--d25ad5da-1ba8-43ca-89ca-1db2442588bb.lovable.app/dashboard" width="100%" alt="Dashboard Overview">
 
 ### 🧪 Context Discovery Wizard (`/wizard`)
 An elegant 4-stage data intake workflow capturing core skill arrays, underlying performance blocks, and multi-goal milestones with fluid responsive state handling.
-<img src="https://id-preview--d25ad5da-1ba8-43ca-89ca-1db2442588bb.lovable.app/dashboard" width="100%" alt="Discovery Wizard">
 
 ## 🧭 CourseCompass - Features 
 The application provides a zero-friction, ultra-premium glassmorphism workspace optimized to transfer structural user context into clean, actionable milestones:
@@ -40,10 +38,7 @@ We welcome contributions from the open-source community.
 Contributions make the open-source community an amazing place to learn, inspire, and create.
 Any optimizations to frontend query boundaries, asset caching, or Tailwind styling states are highly appreciated.
 
-Check out our [Contribution Guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for detailed configuration data.
-
-## 🛡️ License
-CourseCompass is licensed under the [MIT License](https://github.com/PritamSarbajna/tourism-website/blob/main/LICENSE) - see the LICENSE file for core operational terms.
+Check out our [Contribution Guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for detailed configuration data
 
 ## 🙏 Support
 Did CourseCompass help you find your career path and build up your skills? This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
