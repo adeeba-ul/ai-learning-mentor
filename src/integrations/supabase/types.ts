@@ -14,7 +14,150 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      certificates: {
+        Row: {
+          ai_raw: Json | null
+          created_at: string
+          extracted_skills: string[] | null
+          file_name: string
+          file_path: string
+          id: string
+          mime_type: string | null
+          proficiency: string | null
+          status: string
+          summary: string | null
+          technologies: string[] | null
+          title: string | null
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          ai_raw?: Json | null
+          created_at?: string
+          extracted_skills?: string[] | null
+          file_name: string
+          file_path: string
+          id?: string
+          mime_type?: string | null
+          proficiency?: string | null
+          status?: string
+          summary?: string | null
+          technologies?: string[] | null
+          title?: string | null
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          ai_raw?: Json | null
+          created_at?: string
+          extracted_skills?: string[] | null
+          file_name?: string
+          file_path?: string
+          id?: string
+          mime_type?: string | null
+          proficiency?: string | null
+          status?: string
+          summary?: string | null
+          technologies?: string[] | null
+          title?: string | null
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      profiles: {
+        Row: {
+          avatar_url: string | null
+          career_goals: string | null
+          completed_courses: string[] | null
+          created_at: string
+          full_name: string | null
+          id: string
+          interests: string[] | null
+          skills: string[] | null
+          updated_at: string
+        }
+        Insert: {
+          avatar_url?: string | null
+          career_goals?: string | null
+          completed_courses?: string[] | null
+          created_at?: string
+          full_name?: string | null
+          id: string
+          interests?: string[] | null
+          skills?: string[] | null
+          updated_at?: string
+        }
+        Update: {
+          avatar_url?: string | null
+          career_goals?: string | null
+          completed_courses?: string[] | null
+          created_at?: string
+          full_name?: string | null
+          id?: string
+          interests?: string[] | null
+          skills?: string[] | null
+          updated_at?: string
+        }
+        Relationships: []
+      }
+      recommendations: {
+        Row: {
+          created_at: string
+          id: string
+          payload: Json
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          payload: Json
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          payload?: Json
+          user_id?: string
+        }
+        Relationships: []
+      }
+      saved_courses: {
+        Row: {
+          category: string | null
+          created_at: string
+          id: string
+          level: string | null
+          provider: string | null
+          rationale: string | null
+          title: string
+          url: string | null
+          user_id: string
+        }
+        Insert: {
+          category?: string | null
+          created_at?: string
+          id?: string
+          level?: string | null
+          provider?: string | null
+          rationale?: string | null
+          title: string
+          url?: string | null
+          user_id: string
+        }
+        Update: {
+          category?: string | null
+          created_at?: string
+          id?: string
+          level?: string | null
+          provider?: string | null
+          rationale?: string | null
+          title?: string
+          url?: string | null
+          user_id?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
