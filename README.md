@@ -1,4 +1,3 @@
-![CourseCompass Premium Banner](YOUR_GENERATED_BANNER_IMAGE_URL_HERE)
 
 # 🧭 CourseCompass
 AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
@@ -17,11 +16,9 @@ AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
 
 ### 🛠️ Mentorship Command Center (Dashboard)
 A modern, dark-themed command center tracking analytical indexes (Certificates, Detected Skills, Saved Paths) featuring a dynamic threat detection component.
-![Dashboard Overview](YOUR_DASHBOARD_SCREENSHOT_URL)
 
 ### 🧪 Context Discovery Wizard (`/wizard`)
 An elegant 4-stage data intake workflow capturing core skill arrays, underlying performance blocks, and multi-goal milestones with fluid responsive state handling.
-![Discovery Wizard](YOUR_WIZARD_SCREENSHOT_URL)
 
 ## 🧭 CourseCompass - Features 
 The application provides a zero-friction, ultra-premium glassmorphism workspace optimized to transfer structural user context into clean, actionable milestones:
