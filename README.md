@@ -9,7 +9,7 @@ AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase (Authentication, Managed Storage, Relational Database Realtime Engines), and server-side Gemini AI orchestration.
 
 ## 🔗 To see the project
-[CourseCompass Production App](https://ai-learning-mentor.rizen840.workers.dev)
+[CourseCompass Production App](https://ai-learning-mentor.rizen840.workers.dev/)
 
 ## 👓 Preview
 *Note: Replace these placeholders with your actual application screenshots to show off your dark theme implementation.*
