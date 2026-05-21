@@ -9,7 +9,7 @@ AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase (Authentication, Managed Storage, Relational Database Realtime Engines), and server-side Gemini AI orchestration.
 
 ## 🔗 To see the project
-[CourseCompass Production App](https://id-preview--d25ad5da-1ba8-43ca-89ca-1db2442588bb.lovable.app/dashboard)
+[CourseCompass Production App]([https://id-preview--d25ad5da-1ba8-43ca-89ca-1db2442588bb.lovable.app/dashboard](https://ai-learning-mentor.rizen840.workers.dev/))
 
 ## 👓 Preview
 *Note: Below are the actual structured core user pathways and views inside CourseCompass.*
