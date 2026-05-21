@@ -1,3 +1,4 @@
+![CourseCompass Premium Banner](YOUR_GENERATED_BANNER_IMAGE_URL_HERE)
 
 # 🧭 CourseCompass
 AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
@@ -9,16 +10,18 @@ AI STRATEGIC COMPASS — "When you're lost, we hand you the map."
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase (Authentication, Managed Storage, Relational Database Realtime Engines), and server-side Gemini AI orchestration.
 
 ## 🔗 To see the project
-[CourseCompass Production App]([https://ai-learning-mentor.rizen840.workers.dev])
+[CourseCompass Production App](https://ai-learning-mentor.rizen840.workers.dev)
 
 ## 👓 Preview
-*Note: Below are the actual structured core user pathways and views inside CourseCompass.*
+*Note: Replace these placeholders with your actual application screenshots to show off your dark theme implementation.*
 
 ### 🛠️ Mentorship Command Center (Dashboard)
 A modern, dark-themed command center tracking analytical indexes (Certificates, Detected Skills, Saved Paths) featuring a dynamic threat detection component.
+![Dashboard Overview](YOUR_DASHBOARD_SCREENSHOT_URL)
 
 ### 🧪 Context Discovery Wizard (`/wizard`)
 An elegant 4-stage data intake workflow capturing core skill arrays, underlying performance blocks, and multi-goal milestones with fluid responsive state handling.
+![Discovery Wizard](YOUR_WIZARD_SCREENSHOT_URL)
 
 ## 🧭 CourseCompass - Features 
 The application provides a zero-friction, ultra-premium glassmorphism workspace optimized to transfer structural user context into clean, actionable milestones:
@@ -38,7 +41,9 @@ We welcome contributions from the open-source community.
 Contributions make the open-source community an amazing place to learn, inspire, and create.
 Any optimizations to frontend query boundaries, asset caching, or Tailwind styling states are highly appreciated.
 
-Check out our [Contribution Guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for detailed configuration data
+Check out our [Contribution Guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for detailed configuration data.
 
 ## 🙏 Support
 Did CourseCompass help you find your career path and build up your skills? This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
+To test out our live deployment vector, explore the [CourseCompass Production Web Engine](https://ai-learning-mentor.rizen840.workers.dev/).
