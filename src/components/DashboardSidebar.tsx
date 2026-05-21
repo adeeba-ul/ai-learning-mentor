@@ -1,12 +1,14 @@
 import { Link } from "@tanstack/react-router";
-import { LayoutDashboard, User, Upload, Sparkles, Map, Bookmark } from "lucide-react";
+import { LayoutDashboard, User, Upload, Sparkles, Map, Bookmark, Compass, Library } from "lucide-react";
 
 const items = [
   { to: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
+  { to: "/wizard", label: "Context Wizard", icon: Compass },
   { to: "/profile", label: "Profile", icon: User },
   { to: "/upload", label: "Upload Certificate", icon: Upload },
   { to: "/recommendations", label: "AI Recommendations", icon: Sparkles },
   { to: "/roadmap", label: "Learning Roadmap", icon: Map },
+  { to: "/vault", label: "Growth Vault", icon: Library },
   { to: "/saved", label: "Saved Courses", icon: Bookmark },
 ] as const;
 
